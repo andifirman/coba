@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+}
+
+.jadi{
+  max-width: 100%;
+  object-fit: cover;
+  background-size: cover;
+}
+
+/* PERPUSTAKAAN WARNA */
+/* 
+  PINK PASTEL #FFD1DC
+  BIRU PASTEL #D1DFFF
+ */
